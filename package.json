@@ -1,0 +1,23 @@
+{
+  "name": "setterGetterify",
+  "version": "1.0.0",
+  "description": "generates setters and getters for an object",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sole",
+  "license": "Apache 2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sole/setterGetterify.git"
+  },
+  "keywords": [
+    "setters",
+    "getters"
+  ],
+  "bugs": {
+    "url": "https://github.com/sole/setterGetterify/issues"
+  },
+  "homepage": "https://github.com/sole/setterGetterify"
+}
