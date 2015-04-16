@@ -1,5 +1,5 @@
 {
-  "name": "setterGetterify",
+  "name": "setter-getterify",
   "version": "1.0.0",
   "description": "generates setters and getters for an object",
   "main": "main.js",
@@ -10,14 +10,14 @@
   "license": "Apache 2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sole/setterGetterify.git"
+    "url": "https://github.com/sole/setter-getterify.git"
   },
   "keywords": [
     "setters",
     "getters"
   ],
   "bugs": {
-    "url": "https://github.com/sole/setterGetterify/issues"
+    "url": "https://github.com/sole/setter-getterify/issues"
   },
-  "homepage": "https://github.com/sole/setterGetterify"
+  "homepage": "https://github.com/sole/setter-getterify"
 }

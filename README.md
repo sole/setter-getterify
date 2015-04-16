@@ -1,9 +1,9 @@
-# setterGetterify
+# setter-getterify
 
 > generates setters and getters for an object
 
 ```javascript
-var setterGetterify = require('setterGetterify');
+var setterGetterify = require('setter-getterify');
 
 var thing = { some: 'properties' };
 var coords = { x: 0, y: 0 };
