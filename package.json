@@ -1,6 +1,6 @@
 {
   "name": "setter-getterify",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "generates setters and getters for an object",
   "main": "main.js",
   "scripts": {
